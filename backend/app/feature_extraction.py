@@ -119,6 +119,7 @@ def extract_all_features(
     Returns:
         Dictionary with 28 features (prefixed with 'h_' or 'v_')
     """
+    
     features = {}
     
     # Horizontal channel
